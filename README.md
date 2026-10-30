@@ -1,4 +1,4 @@
-#OpenBlep
+# OpenBLEp
 
 ESP32-S3 adapter firmwares for BLE game controllers like the Joy-Con 2, M64 Pro, and Gamestation Gamepad controllers.
 

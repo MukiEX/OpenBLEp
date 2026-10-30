@@ -1,0 +1,3 @@
+[submodule "joycon2-dongle"]
+	path = joycon2-dongle
+	url = git@github.com:MukiEX/joycon2-dongle.git
